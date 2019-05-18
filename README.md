@@ -1,4 +1,4 @@
-# 097200-Deep-Learning-Course-Final-Project-Adaptive-Depth-Sampling
+# 097200 Deep-Learning Course Final Project: Adaptive DepthSampling
 
 Final project by Gal Shitrit and Adam Wolff in Deep Learning course (097200), Technion.
 
