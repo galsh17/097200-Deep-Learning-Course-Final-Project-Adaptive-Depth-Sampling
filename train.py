@@ -1,5 +1,5 @@
-import PIL.Image
 from __future__ import print_function, division
+import PIL.Image
 import os
 import torch
 import pandas as pd
@@ -14,8 +14,9 @@ import copy
 import time
 import datetime
 from utils import *
-from model_Unet import *
+from model_UNet import *
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+ torch.cuda.is_available() else "cpu")
 
 base_path_test = '/content/gdrive/My Drive/deep_learning_project/test/'
 
